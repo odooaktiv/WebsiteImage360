@@ -1,4 +1,4 @@
-Master
+Odoo v11
 
 Installation 
 ============
