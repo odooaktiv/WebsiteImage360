@@ -17,7 +17,8 @@
                         <tree string="Product Images" editable="bottom">
                             <field name="sequance" widget="handle"/>
                             <field name="name"/>
-                            <field name="image" widget="image" class="oe_left oe_avatar"/>
+                            <field name="image" widget="image" height="60" class="oe_left"/> 
+                         
                         </tree>
                     </field>
                 </page>

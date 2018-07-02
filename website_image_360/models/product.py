@@ -11,8 +11,8 @@ class ProductTemplate(models.Model):
 
 class ProductImage360(models.Model):
     _name = 'product.image.360'
-    _order = 'sequance'
-
+    _order = 'sequance'	
+	
     name = fields.Char(string='Name')
     image = fields.Binary(string='Image', attachment=True)
     product_tmpl_id = fields.Many2one('product.template', string='Related Product', copy=True)

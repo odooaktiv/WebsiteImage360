@@ -6,8 +6,8 @@
     'website': 'http://www.aktivsoftware.com',
     'author': 'Aktiv Software',
     'category': 'Website',
-    'version': '11.0.1.0.0',
-    'depends': ['website_sale'],
+    'version': '10.0.1.0.0',
+    'depends': ['website_sale', 'web_tree_image'],
     'data': [
         'data/example_data_view.xml',
         'views/website_image_360.xml',
