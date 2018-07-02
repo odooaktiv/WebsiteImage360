@@ -13,5 +13,6 @@
         'views/website_image_360.xml',
         'views/template.xml',
     ],
+    'images': ['static/description/banner.jpg'],
     'installable': True,
 }
