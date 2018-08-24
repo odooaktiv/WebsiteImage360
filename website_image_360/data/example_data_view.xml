@@ -3,7 +3,8 @@
     <data noupdate="1">
 
     	<record id="image_data" model="product.template">
-            <field name="name">white sports shoes</field>
+            <field name="name">White sports shoes</field>
+	    <field name="image" type="base64" file="website_image_360/static/images/image1_1.jpg"/>
             <field name="display_360_image">True</field>
         </record>
 
