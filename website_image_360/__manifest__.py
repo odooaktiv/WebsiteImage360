@@ -3,8 +3,9 @@
 {
     'name': 'Website Image 360',
     'summary': 'This module helps to rotate the product image in\
-    360 dimension view',
+     360 dimension view',
     'website': 'http://www.aktivsoftware.com',
+    'license': 'AGPL-3',
     'author': 'Aktiv Software',
     'category': 'Website',
     'version': '10.0.1.0.0',
