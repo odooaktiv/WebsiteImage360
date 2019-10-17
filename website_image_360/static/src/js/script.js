@@ -36,6 +36,8 @@ odoo.define('website_image_360.script', function (require) {
             $('.carousel-inner,.carousel-control ,.product_detail_img').css({'display':'block'});
             $('#image_360').css({'display':'none'});
         });
+
+        
     })
 
 })

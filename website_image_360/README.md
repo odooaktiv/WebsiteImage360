@@ -1,4 +1,4 @@
-Master
+Odoo 12.0 Community
 
 Installation 
 ============
