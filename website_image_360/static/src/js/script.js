@@ -1,9 +1,8 @@
 odoo.define('website_image_360.script', function (require) {
 "use strict";
-
     $(document).ready(function () {
-        var pic_X=$('.list').offset().left;
-        var pic_Y=$('.list').offset().top;
+        var pic_X=0;
+        var pic_Y=0;
         var pic_W=$('.list').width()/2;
         var pic_H=$('.list').height()/2;
         var center_X=pic_X+pic_W;
@@ -36,6 +35,8 @@ odoo.define('website_image_360.script', function (require) {
             $('.carousel-inner,.carousel-control ,.product_detail_img').css({'display':'block'});
             $('#image_360').css({'display':'none'});
         });
+
+        
     })
 
 })
