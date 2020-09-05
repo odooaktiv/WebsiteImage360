@@ -14,10 +14,10 @@ overflow: hidden;
 }
 #image_360 ul {
 width: 400px;
-height: 280px;
+height: auto;
 }
 #image_360 ul li img {
 display: block;
 width: 400px;
-height: 280px;
+height: auto;
 }
